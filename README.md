@@ -3,13 +3,17 @@ projeto para tratar de Arraylist e Collections em Java para estruturação em JA
 
 
 # ✅ Libs
-´´´
+
+´´
 import java.util.ArrayList;
+
 import java.util.Collections;
+
 import java.util.List;
+
 import java.util.Scanner;
 
-´´´
+´´
 
 
 # Colaboradores
